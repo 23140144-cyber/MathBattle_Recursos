@@ -1,0 +1,27 @@
+# 🎮 Math Battle: El Héroe +
+
+Recursos del videojuego educativo hecho en App Inventor.
+
+## 📁 Contenido recomendado
+- hero_plus.png
+- enemy_minus.png
+- enemy_times.png
+- enemy_div.png
+- bg_menu.png
+- bg_battle.png
+- bg_levels.png
+- hit.wav
+- error.wav
+- win.wav
+- lose.wav
+
+## 📜 Cómo usar
+1. Descarga o arrastra las imágenes y sonidos a tu proyecto en [MIT App Inventor](https://appinventor.mit.edu).
+2. Sigue las instrucciones del archivo `README_blocks_and_setup.txt` para armar los bloques.
+3. ¡Diviértete aprendiendo con matemáticas!
+
+---
+
+> Creado por Rodrigo Martínez Moreno 
+
+
